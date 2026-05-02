@@ -1,3 +1,4 @@
+
 # 🎓 One-Stop Personalized Career & Education Advisor
 
 A full-stack MERN web application providing personalized academic and career guidance through aptitude assessments, intelligent recommendations, and college discovery.
@@ -426,3 +427,6 @@ The backend is structured with `engineVersion` field in Recommendation model to 
 ---
 
 *Built with ❤️ for Indian students navigating academic and career decisions.*
+=======
+# adl-career_advisor
+
