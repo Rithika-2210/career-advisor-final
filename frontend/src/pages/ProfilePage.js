@@ -2,7 +2,7 @@
  * ProfilePage
  * Edit academic details, interests, location
  */
-
+// updategit add ProfilePage.js
 import React, { useState } from 'react';
 import Navbar from '../components/common/Navbar';
 import { useAuth } from '../context/AuthContext';
